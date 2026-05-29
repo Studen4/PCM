@@ -1,0 +1,21 @@
+# Віртуальне середовище Python
+.venv/
+venv/
+ENV/
+env/
+
+# Кеш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Секретні ключі (наш майбутній OpenAI ключ)
+.env
+
+# Налаштування PyCharm
+.idea/
+
+# Локальні бази даних та кеш (щоб не затирати історію)
+data/chats_db.json
