@@ -1,0 +1,18 @@
+{
+    "PCMadmin": {
+        "password": "Cryptopass2026",
+        "role": "admin"
+    },
+    "Example": {
+        "password": "Examplepass2026",
+        "role": "user"
+    },
+    "Guest": {
+        "password": "",
+        "role": "guest"
+    },
+    "1111": {
+        "password": "1111",
+        "role": "user"
+    }
+}

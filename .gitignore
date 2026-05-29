@@ -19,3 +19,5 @@ __pycache__/
 
 # Локальні бази даних та кеш (щоб не затирати історію)
 data/chats_db.json
+data/example_data.json
+data/users_db.json

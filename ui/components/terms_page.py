@@ -1,5 +1,5 @@
-# Terms of Service page content in clean HTML format with internal CSS.
-# Optimized for direct rendering in Flask views.
+import streamlit as st
+import urllib.parse
 
 TERMS_HTML_CONTENT = """
 <!DOCTYPE html>
@@ -70,7 +70,7 @@ TERMS_HTML_CONTENT = """
     <p>Welcome to <span class="highlight">Price Control Model (PCM)</span>. Please read these Terms of Service carefully before using our software platform.</p>
 
     <h2>1. General Provisions</h2>
-    <p>PCM is an experimental software designed to automate product price category analysis. By accessing this platform as a Guest \ User or an Administrator, you acknowledge and agree to the scope and limitations outlined below.</p>
+    <p>PCM is an experimental software designed to automate product price category analysis. By accessing this platform as a Guest \\ User or an Administrator, you acknowledge and agree to the scope and limitations outlined below.</p>
 
     <h2>2. Disclaimer & Limitation of Liability</h2>
     <ul>
@@ -98,3 +98,20 @@ TERMS_HTML_CONTENT = """
 </body>
 </html>
 """
+
+
+def render_terms_page(navigate_to):
+    # 1. Кодуємо HTML-контент у безпечний формат для URL
+    encoded_html = urllib.parse.quote(TERMS_HTML_CONTENT)
+
+    # 2. Створюємо Data URL
+    data_url = f"data:text/html;charset=utf-8,{encoded_html}"
+
+    # 3. Використовуємо st.iframe, як того вимагає Streamlit
+    st.iframe(src=data_url, height=800)
+
+    # Кнопка для повернення назад
+    st.markdown("<br><hr>", unsafe_allow_html=True)
+    if st.button("← Back"):
+        target = 'workspace' if st.session_state.get('current_user') else 'login'
+        navigate_to(target)
