@@ -1,0 +1,16 @@
+INFO:     Started server process [9908]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [9908]
+==================================================
+ Запуск E-Katalog Session Daemon (Safe Lock Mode)
+==================================================
+[DAEMON] Запуск фонового асинхронного браузера Playwright...
+[DAEMON] Переходжу на ek.ua...
+[DAEMON] Браузер готовий. Очікую запитів від Streamlit...
+[DAEMON] Збереження сесії та закриття ресурси...
+[DAEMON ERROR] Помилка при закритті браузера: BrowserContext.storage_state: Connection closed while reading from the driver

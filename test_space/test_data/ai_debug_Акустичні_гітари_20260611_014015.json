@@ -1,0 +1,156 @@
+{
+    "categories": {
+        "Тип": {
+            "importance_coefficient": 0.18,
+            "type": "comparison_possible",
+            "options_rank": {
+                "акустична": "top-1",
+                "електроакустична": "top-2",
+                "класична": "top-3",
+                "укулеле": "top-4",
+                "акустична бас-гітара": "top-5",
+                "інші": "top-6"
+            }
+        },
+        "Кількість струн": {
+            "importance_coefficient": 0.12,
+            "type": "comparison_possible",
+            "options_rank": {
+                "6": "top-1",
+                "12": "top-2",
+                "4": "top-3",
+                "7": "top-4",
+                "8": "top-5",
+                "5": "top-6",
+                "інші": "top-7"
+            }
+        },
+        "Розмір корпуса": {
+            "importance_coefficient": 0.1,
+            "type": "comparison_possible",
+            "options_rank": {
+                "4/4": "top-1",
+                "3/4": "top-2",
+                "1/2": "top-3",
+                "інші": "top-4"
+            }
+        },
+        "Форма корпуса": {
+            "importance_coefficient": 0.1,
+            "type": "comparison_possible",
+            "options_rank": {
+                "дредноут (вестерн)": "top-1",
+                "гранд аудиторіум": "top-2",
+                "оркестрова модель": "top-3",
+                "концертна": "top-4",
+                "джамбо": "top-5",
+                "міні-джамбо": "top-6",
+                "сопрано": "top-7",
+                "тенор": "top-8",
+                "баритон": "top-9",
+                "інші": "top-10"
+            }
+        },
+        "Верхня дека": {
+            "importance_coefficient": 0.1,
+            "type": "comparison_possible",
+            "options_rank": {
+                "ялина": "top-1",
+                "кедр": "top-2",
+                "червоне дерево": "top-3",
+                "інші": "top-4"
+            }
+        },
+        "Додатково": {
+            "importance_coefficient": 0.1,
+            "type": "comparison_possible",
+            "options_rank": {
+                "повністю цільний корпус": "top-1",
+                "цільна верхня дека": "top-2",
+                "звукознімач": "top-3",
+                "виріз деки": "top-4",
+                "еквалайзер": "top-5",
+                "тюнер": "top-6",
+                "для лівші": "top-7",
+                "інші": "top-8"
+            }
+        },
+        "Нижня дека і обичайка": {
+            "importance_coefficient": 0.06,
+            "type": "comparison_possible",
+            "options_rank": {
+                "палісандр": "top-1",
+                "сапеле": "top-2",
+                "клен": "top-3",
+                "нато": "top-4",
+                "меранті": "top-5",
+                "інші": "top-6"
+            }
+        },
+        "Виробники": {
+            "importance_coefficient": 0.05,
+            "type": "comparison_impossible",
+            "options_rank": {
+                "Yamaha": "top-1",
+                "Fender": "top-2",
+                "Taylor": "top-3",
+                "Gibson": "top-4",
+                "Ibanez": "top-5",
+                "інші": "top-6"
+            }
+        },
+        "Матеріал грифа": {
+            "importance_coefficient": 0.04,
+            "type": "comparison_possible",
+            "options_rank": {
+                "червоне дерево": "top-1",
+                "клен": "top-2",
+                "нато": "top-3",
+                "інші": "top-4"
+            }
+        },
+        "Накладка грифа": {
+            "importance_coefficient": 0.04,
+            "type": "comparison_possible",
+            "options_rank": {
+                "чорне дерево": "top-1",
+                "палісандр": "top-2",
+                "монгой": "top-3",
+                "інші": "top-4"
+            }
+        },
+        "Кількість ладів": {
+            "importance_coefficient": 0.04,
+            "type": "comparison_possible",
+            "options_rank": {
+                "20 – 21": "top-1",
+                "18 – 19": "top-2",
+                "> 21": "top-3",
+                "≤ 17": "top-4",
+                "інші": "top-5"
+            }
+        },
+        "Комплектація": {
+            "importance_coefficient": 0.04,
+            "type": "comparison_possible",
+            "options_rank": {
+                "кейс/чохол": "top-1",
+                "комбопідсилювач": "top-2",
+                "тюнер": "top-3",
+                "ремінь": "top-4",
+                "медіатори": "top-5",
+                "інші": "top-6"
+            }
+        },
+        "Бридж": {
+            "importance_coefficient": 0.03,
+            "type": "comparison_possible",
+            "options_rank": {
+                "чорне дерево": "top-1",
+                "палісандр": "top-2",
+                "монгой": "top-3",
+                "інші": "top-4"
+            }
+        }
+    }
+}

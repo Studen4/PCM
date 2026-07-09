@@ -1,0 +1,97 @@
+{
+    "categories": {
+        "Тип": {
+            "importance_coefficient": 0.25,
+            "type": "comparison_possible",
+            "options_rank": {
+                "акустична": "top-1",
+                "класична": "top-2",
+                "електроакустична": "top-3",
+                "укулеле": "top-4",
+                "акустична бас-гітара": "top-5",
+                "інші": "top-6"
+            }
+        },
+        "Розмір корпуса": {
+            "importance_coefficient": 0.15,
+            "type": "comparison_possible",
+            "options_rank": {
+                "4/4": "top-1",
+                "3/4": "top-2",
+                "1/2": "top-3",
+                "інші": "top-4"
+            }
+        },
+        "Форма корпуса": {
+            "importance_coefficient": 0.15,
+            "type": "comparison_possible",
+            "options_rank": {
+                "дредноут (вестерн)": "top-1",
+                "гранд аудиторіум": "top-2",
+                "оркестрова модель": "top-3",
+                "концертна": "top-4",
+                "джамбо": "top-5",
+                "міні-джамбо": "top-6",
+                "сопрано": "top-7",
+                "тенор": "top-8",
+                "баритон": "top-9",
+                "інші": "top-10"
+            }
+        },
+        "Кількість струн": {
+            "importance_coefficient": 0.15,
+            "type": "comparison_possible",
+            "options_rank": {
+                "6": "top-1",
+                "12": "top-2",
+                "4": "top-3",
+                "7": "top-4",
+                "8": "top-5",
+                "5": "top-6",
+                "інші": "top-7"
+            }
+        },
+        "Верхня дека": {
+            "importance_coefficient": 0.15,
+            "type": "comparison_possible",
+            "options_rank": {
+                "ялина": "top-1",
+                "кедр": "top-2",
+                "червоне дерево": "top-3",
+                "інші": "top-4"
+            }
+        },
+        "Додатково": {
+            "importance_coefficient": 0.05,
+            "type": "comparison_possible",
+            "options_rank": {
+                "цільна верхня дека": "top-1",
+                "повністю цільний корпус": "top-2",
+                "звукознімач": "top-3",
+                "виріз деки": "top-4",
+                "еквалайзер": "top-5",
+                "тюнер": "top-6",
+                "для лівші": "top-7",
+                "інші": "top-8"
+            }
+        },
+        "Виробники": {
+            "importance_coefficient": 0.05,
+            "type": "comparison_impossible",
+            "options_rank": {
+                "Yamaha": "top-1",
+                "Fender": "top-2",
+                "Ibanez": "top-3",
+                "Cort": "top-4",
+                "інші": "top-5"
+            }
+        },
+        "Інші характеристики": {
+            "importance_coefficient": 0.05,
+            "type": "additional",
+            "options_rank": {
+                "інші": "top-+"
+            }
+        }
+    }
+}

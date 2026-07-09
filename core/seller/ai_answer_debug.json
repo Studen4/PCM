@@ -1,0 +1,90 @@
+{
+    "categories": {
+        "Тип (за конструкцією клавіш)": {
+            "importance_coefficient": 0.25,
+            "type": "comparison_possible",
+            "options_rank": {
+                "механічні": "top-1",
+                "магнітні": "top-2",
+                "оптичні": "top-3",
+                "ножичні": "top-4",
+                "мембранні + механічні": "top-5",
+                "механічно-мембранні": "top-6",
+                "мембранні": "top-7"
+            }
+        },
+        "Підключення": {
+            "importance_coefficient": 0.2,
+            "type": "comparison_possible",
+            "options_rank": {
+                "бездротові": "top-1",
+                "дротові": "top-2"
+            }
+        },
+        "Формат": {
+            "importance_coefficient": 0.15,
+            "type": "comparison_possible",
+            "options_rank": {
+                "75%": "top-1",
+                "65%": "top-2",
+                "80% (TKL, без Num-блоку)": "top-3",
+                "96%": "top-4",
+                "100% (повнорозмірні)": "top-5",
+                "60%": "top-6",
+                "1800": "top-7",
+                "40%": "top-8"
+            }
+        },
+        "Функції та можливості": {
+            "importance_coefficient": 0.15,
+            "type": "comparison_possible",
+            "options_rank": {
+                "Hot Swap": "top-1",
+                "підсвічування клавіш": "top-2",
+                "Multi-Device": "top-3",
+                "програмовані клавіші": "top-4",
+                "anti-ghosting": "top-5",
+                "вбудована пам'ять": "top-6",
+                "ігровий режим": "top-7",
+                "регулювання гучності": "top-8",
+                "інші": "top-9"
+            }
+        },
+        "Особливості конструкції": {
+            "importance_coefficient": 0.1,
+            "type": "comparison_possible",
+            "options_rank": {
+                "Gasket Mount (шумопоглинання)": "top-1",
+                "металевий корпус": "top-2",
+                "знімний кабель": "top-3",
+                "підставка для рук": "top-4",
+                "Skeleton": "top-5",
+                "інші": "top-6"
+            }
+        },
+        "Виробники": {
+            "importance_coefficient": 0.05,
+            "type": "comparison_impossible",
+            "options_rank": {
+                "2E": "top-1",
+                "інші": "top-2"
+            }
+        },
+        "Призначення (тип)": {
+            "importance_coefficient": 0.05,
+            "type": "additional",
+            "options_rank": {
+                "ігрові": "top-1",
+                "ергономічні": "top-2",
+                "інші": "top-3"
+            }
+        },
+        "Інші характеристики": {
+            "importance_coefficient": 0.05,
+            "type": "additional",
+            "options_rank": {
+                "інші": "top-+"
+            }
+        }
+    }
+}

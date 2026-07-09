@@ -1,0 +1,586 @@
+{
+    "status": "ok",
+    "market_data": {
+        "url": "https://ek.ua/ua/ek-list.php?katalog_=824&save_podbor_=1&sc_id_=980&order_=pop",
+        "total_items": 2928,
+        "price_pool": {
+            "min": 2000,
+            "max": 126000
+        },
+        "sidebar_filters": {
+            "Виробники": [
+                "Admira",
+                "Alfabeto",
+                "Alhambra",
+                "Almansa",
+                "Almira",
+                "Alvarez",
+                "Ammoon",
+                "Antonio Sanchez",
+                "Applause",
+                "ARIA",
+                "Art & Lutherie",
+                "Avzhezh",
+                "Bandes",
+                "Baton Rouge",
+                "Bumblebee Ukuleles",
+                "Camps",
+                "Caravan Music",
+                "Caraya",
+                "Carpathian",
+                "Cordoba",
+                "Cort",
+                "Crusader",
+                "Deviser",
+                "Diamond Head",
+                "EKO",
+                "Enya",
+                "Epiphone",
+                "ESP",
+                "Fender",
+                "Fiesta",
+                "Flight",
+                "Furch",
+                "Fzone",
+                "GEWA",
+                "Gibson",
+                "Godin",
+                "Gretsch",
+                "Guild",
+                "Harley Benton",
+                "Hohner",
+                "Hora",
+                "Ibanez",
+                "Kabat",
+                "Kala",
+                "Kaysen",
+                "Korala",
+                "Kremona",
+                "La Patrie",
+                "LAG",
+                "Larrivee",
+                "LAVA",
+                "MAHALO",
+                "Manuel Rodriguez",
+                "Martin",
+                "Maxtone",
+                "Newt",
+                "Norman",
+                "Ortega",
+                "Osten",
+                "Ovation",
+                "Parksons",
+                "Prima",
+                "PRS",
+                "Prudencio Saez",
+                "Richwood",
+                "Salvador",
+                "SAMSON",
+                "Schecter",
+                "Seagull",
+                "Sigma",
+                "Simon & Patrick",
+                "Sire",
+                "Solar",
+                "Squier",
+                "Stagg",
+                "Swift Horse",
+                "SX",
+                "Takamine",
+                "Tanglewood",
+                "Taylor",
+                "Thomann",
+                "Valencia",
+                "Vintage",
+                "Virginia",
+                "Warwick",
+                "Washburn",
+                "Yamaha"
+            ],
+            "Тип": [
+                "акустична",
+                "електроакустична",
+                "класична",
+                "акустична бас-гітара",
+                "укулеле"
+            ],
+            "Розмір корпуса": [
+                "4/4",
+                "3/4",
+                "1/2"
+            ],
+            "Форма корпуса": [
+                "дредноут (вестерн)",
+                "оркестрова модель",
+                "джамбо",
+                "міні-джамбо",
+                "гранд аудиторіум",
+                "концертна",
+                "сопрано",
+                "тенор",
+                "баритон"
+            ],
+            "Кількість струн": [
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "12"
+            ],
+            "Кількість ладів": [
+                "≤ 17",
+                "18 – 19",
+                "20 – 21",
+                "> 21"
+            ],
+            "Додатково": [
+                "для лівші",
+                "звукознімач",
+                "тюнер",
+                "еквалайзер",
+                "виріз деки",
+                "цільна верхня дека",
+                "повністю цільний корпус"
+            ],
+            "Верхня дека": [
+                "ялина",
+                "кедр",
+                "червоне дерево"
+            ],
+            "Нижня дека і обичайка": [
+                "палісандр",
+                "сапеле",
+                "клен",
+                "меранті",
+                "нато"
+            ],
+            "Бридж": [
+                "палісандр",
+                "монгой",
+                "чорне дерево"
+            ],
+            "Матеріал грифа": [
+                "нато",
+                "клен",
+                "червоне дерево"
+            ],
+            "Накладка грифа": [
+                "палісандр",
+                "монгой",
+                "чорне дерево"
+            ],
+            "Комплектація": [
+                "кейс/чохол",
+                "ремінь",
+                "тюнер",
+                "медіатори",
+                "комбопідсилювач"
+            ]
+        },
+        "products": [
+            {
+                "name": "Yamaha F310",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Cort AD810",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Yamaha C40",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Cort AC100",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Stagg C440",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Cort AD880CE",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Avzhezh AG-101",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Yamaha FG800",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Yamaha FX370C",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Caravan Music HS-4020",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Yamaha FS100C",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Bandes AG-851",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Cort AD810E",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Alfabeto WMS41",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Fender CD-60SCE",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Yamaha APX700II",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Seagull Maritime SWS SG",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Yamaha FG820L",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Yamaha CM40",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Almira CG-1702",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Cort AD810M",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Valencia VC264",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Korala UKB-210",
+                "price_range": "Ціна відсутня"
+            },
+            {
+                "name": "Caravan Music HS-4010",
+                "price_range": "Ціна відсутня"
+            }
+        ]
+    },
+    "boundaries": [
+        {
+            "category": "Найдешевші",
+            "start": 2000,
+            "end": 2575.9268210161117,
+            "percent": 3.1995934500895093
+        },
+        {
+            "category": "Дешеві",
+            "start": 2575.9268210161117,
+            "end": 4295.912509310808,
+            "percent": 9.555476046081642
+        },
+        {
+            "category": "Стандартні",
+            "start": 4295.912509310808,
+            "end": 7557.838999390691,
+            "percent": 18.121813833777132
+        },
+        {
+            "category": "Преміум",
+            "start": 7557.838999390691,
+            "end": 12694.517236947228,
+            "percent": 28.537101319758534
+        },
+        {
+            "category": "Люкс",
+            "start": 12694.517236947228,
+            "end": 126000,
+            "percent": 40.58601535029319
+        }
+    ],
+    "ai_weights": {
+        "factors": {
+            "Тип (за конструкцією клавіш)": {
+                "importance_coefficient": 0.25,
+                "type": "comparison_possible",
+                "options_rank": {
+                    "механічні": "top-1",
+                    "магнітні": "top-2",
+                    "оптичні": "top-3",
+                    "ножичні": "top-4",
+                    "мембранні + механічні": "top-5",
+                    "механічно-мембранні": "top-6",
+                    "мембранні": "top-7"
+                }
+            },
+            "Підключення": {
+                "importance_coefficient": 0.2,
+                "type": "comparison_possible",
+                "options_rank": {
+                    "бездротові": "top-1",
+                    "дротові": "top-2"
+                }
+            },
+            "Формат": {
+                "importance_coefficient": 0.15,
+                "type": "comparison_possible",
+                "options_rank": {
+                    "75%": "top-1",
+                    "65%": "top-2",
+                    "80% (TKL, без Num-блоку)": "top-3",
+                    "96%": "top-4",
+                    "100% (повнорозмірні)": "top-5",
+                    "60%": "top-6",
+                    "1800": "top-7",
+                    "40%": "top-8"
+                }
+            },
+            "Функції та можливості": {
+                "importance_coefficient": 0.15,
+                "type": "comparison_possible",
+                "options_rank": {
+                    "Hot Swap": "top-1",
+                    "підсвічування клавіш": "top-2",
+                    "Multi-Device": "top-3",
+                    "програмовані клавіші": "top-4",
+                    "anti-ghosting": "top-5",
+                    "вбудована пам'ять": "top-6",
+                    "ігровий режим": "top-7",
+                    "регулювання гучності": "top-8",
+                    "інші": "top-9"
+                }
+            },
+            "Особливості конструкції": {
+                "importance_coefficient": 0.1,
+                "type": "comparison_possible",
+                "options_rank": {
+                    "Gasket Mount (шумопоглинання)": "top-1",
+                    "металевий корпус": "top-2",
+                    "знімний кабель": "top-3",
+                    "підставка для рук": "top-4",
+                    "Skeleton": "top-5",
+                    "інші": "top-6"
+                }
+            },
+            "Виробники": {
+                "importance_coefficient": 0.05,
+                "type": "comparison_impossible",
+                "options_rank": {
+                    "2E": "top-1",
+                    "інші": "top-2"
+                }
+            },
+            "Призначення (тип)": {
+                "importance_coefficient": 0.05,
+                "type": "additional",
+                "options_rank": {
+                    "ігрові": "top-1",
+                    "ергономічні": "top-2",
+                    "інші": "top-3"
+                }
+            },
+            "Інші характеристики": {
+                "importance_coefficient": 0.05,
+                "type": "additional",
+                "options_rank": {
+                    "інші": "top-+"
+                }
+            }
+        }
+    },
+    "quiz_questions": [
+        {
+            "type": "input",
+            "name": "Виробники",
+            "display_label": "(Основне)",
+            "options": []
+        },
+        {
+            "type": "choice",
+            "name": "Тип",
+            "options": [
+                "акустична",
+                "електроакустична",
+                "класична",
+                "акустична бас-гітара",
+                "укулеле"
+            ],
+            "display_label": "(Додаткове)",
+            "meta": {
+                "importance_coefficient": 0.05
+            }
+        },
+        {
+            "type": "choice",
+            "name": "Розмір корпуса",
+            "options": [
+                "4/4",
+                "3/4",
+                "1/2"
+            ],
+            "display_label": "(Додаткове)",
+            "meta": {
+                "importance_coefficient": 0.05
+            }
+        },
+        {
+            "type": "choice",
+            "name": "Форма корпуса",
+            "options": [
+                "дредноут (вестерн)",
+                "оркестрова модель",
+                "джамбо",
+                "міні-джамбо",
+                "гранд аудиторіум",
+                "концертна",
+                "сопрано",
+                "тенор",
+                "баритон"
+            ],
+            "display_label": "(Додаткове)",
+            "meta": {
+                "importance_coefficient": 0.05
+            }
+        },
+        {
+            "type": "choice",
+            "name": "Кількість струн",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "12"
+            ],
+            "display_label": "(Додаткове)",
+            "meta": {
+                "importance_coefficient": 0.05
+            }
+        },
+        {
+            "type": "choice",
+            "name": "Кількість ладів",
+            "options": [
+                "≤ 17",
+                "18 – 19",
+                "20 – 21",
+                "> 21"
+            ],
+            "display_label": "(Додаткове)",
+            "meta": {
+                "importance_coefficient": 0.05
+            }
+        },
+        {
+            "type": "choice",
+            "name": "Додатково",
+            "options": [
+                "для лівші",
+                "звукознімач",
+                "тюнер",
+                "еквалайзер",
+                "виріз деки",
+                "цільна верхня дека",
+                "повністю цільний корпус"
+            ],
+            "display_label": "(Додаткове)",
+            "meta": {
+                "importance_coefficient": 0.05
+            }
+        },
+        {
+            "type": "choice",
+            "name": "Верхня дека",
+            "options": [
+                "ялина",
+                "кедр",
+                "червоне дерево"
+            ],
+            "display_label": "(Додаткове)",
+            "meta": {
+                "importance_coefficient": 0.05
+            }
+        },
+        {
+            "type": "choice",
+            "name": "Нижня дека і обичайка",
+            "options": [
+                "палісандр",
+                "сапеле",
+                "клен",
+                "меранті",
+                "нато"
+            ],
+            "display_label": "(Додаткове)",
+            "meta": {
+                "importance_coefficient": 0.05
+            }
+        },
+        {
+            "type": "choice",
+            "name": "Бридж",
+            "options": [
+                "палісандр",
+                "монгой",
+                "чорне дерево"
+            ],
+            "display_label": "(Додаткове)",
+            "meta": {
+                "importance_coefficient": 0.05
+            }
+        },
+        {
+            "type": "choice",
+            "name": "Матеріал грифа",
+            "options": [
+                "нато",
+                "клен",
+                "червоне дерево"
+            ],
+            "display_label": "(Додаткове)",
+            "meta": {
+                "importance_coefficient": 0.05
+            }
+        },
+        {
+            "type": "choice",
+            "name": "Накладка грифа",
+            "options": [
+                "палісандр",
+                "монгой",
+                "чорне дерево"
+            ],
+            "display_label": "(Додаткове)",
+            "meta": {
+                "importance_coefficient": 0.05
+            }
+        },
+        {
+            "type": "choice",
+            "name": "Комплектація",
+            "options": [
+                "кейс/чохол",
+                "ремінь",
+                "тюнер",
+                "медіатори",
+                "комбопідсилювач"
+            ],
+            "display_label": "(Додаткове)",
+            "meta": {
+                "importance_coefficient": 0.05
+            }
+        }
+    ]
+}
